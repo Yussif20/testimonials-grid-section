@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Testimonials Grid section](https://yussif20.github.io/testimonials-grid-section/)
 
 ## My process
 
@@ -31,5 +31,5 @@ Users should be able to:
 
 - Website - [Yusif Ayman](https://yussif20.github.io/main-portfolio/)
 - linkedin - [Yusif Ayman](https://www.linkedin.com/in/yussif-ayman/)
-- linkedin - [Yusif Ayman](https://github.com/Yussif20)
-<!-- - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername) -->
+- Github - [Yusif Ayman](https://github.com/Yussif20)
+- Frontend Mentor - [testimonials-grid-solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-8YR1y_8E9R)
