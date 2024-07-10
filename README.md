@@ -32,4 +32,4 @@ Users should be able to:
 - Website - [Yusif Ayman](https://yussif20.github.io/main-portfolio/)
 - linkedin - [Yusif Ayman](https://www.linkedin.com/in/yussif-ayman/)
 - Github - [Yusif Ayman](https://github.com/Yussif20)
-- Frontend Mentor - [testimonials-grid-solution](https://www.frontendmentor.io/profile/Yussif20)
+- Frontend Mentor - [Yusif Ayman](https://www.frontendmentor.io/profile/Yussif20)
